@@ -1,4 +1,4 @@
-# Is the State Justified?
+# Questioning the State
 
 Edited by Gene Callahan and Leye Komolafe
 
@@ -27,11 +27,7 @@ National Research University Higher School of Economics
 [Özhan Öztürk](bios/ozturk.md), Eötvös Loránd University
 1. [A. John Simmons On Justifying the State](abstracts/simmons.md),
 [Jeff Carroll](bios/carroll.md), West Virginia University
-1. [Jonathan Wolff’s Pluralist Theory of Political Obligation](abstracts/jwolff.md),
-[Leye Komolafe](bios/komolafe.md), University of South Carolina
 1. [Noam Chomsky's Anarcho-Syndicalism](abstracts/chomsky.md),
 [Anindita Adhikari](bios/adhikari.md), Independent Scholar
 1. [On Some Libertarian Intuition Pumps in Huemer](abstracts/huemer.md),
 [David Pereplyotchik](bios/pereplyotchik.md), Kent State University
-1. [Coda: Is the Justification for the Existence of Government a Useful Question?](abstracts/coda.md),
-[Daniel Klein](bios/klein.md), George Mason University
