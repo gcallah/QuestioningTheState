@@ -31,3 +31,5 @@ National Research University Higher School of Economics
 [Anindita Adhikari](bios/adhikari.md), Independent Scholar
 1. [On Some Libertarian Intuition Pumps in Huemer](abstracts/huemer.md),
 [David Pereplyotchik](bios/pereplyotchik.md), Kent State University
+1. [Coda: Is the Justification for the Existence of Government a Useful Question?](abstracts/coda.md),
+[Daniel Klein](bios/klein.md), George Mason University
