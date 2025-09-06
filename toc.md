@@ -25,8 +25,6 @@ National Research University Higher School of Economics
 [Nils Hofmann](bios/hofmann.md), University of Vienna
 1. [Beyond Coercion and Ideology: Rethinking Althusser's State Theory](abstracts/althusser.md),
 [Özhan Öztürk](bios/ozturk.md), Eötvös Loránd University
-1. [A. John Simmons On Justifying the State](abstracts/simmons.md),
-[Jeff Carroll](bios/carroll.md), West Virginia University
 1. [Noam Chomsky's Anarcho-Syndicalism](abstracts/chomsky.md),
 [Anindita Adhikari](bios/adhikari.md), Independent Scholar
 1. [On Some Libertarian Intuition Pumps in Huemer](abstracts/huemer.md),
