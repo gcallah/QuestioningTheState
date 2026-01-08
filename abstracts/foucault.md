@@ -24,3 +24,8 @@ to ourselves and to society. State authority, too, can be assessed and critiqued
 straightforwardly justified or annulled, from this point of view. The chapter concludes with some
 remarks on why normative Foucauldian political and social theory is not an oxymoron despite his
 self-conscious predilection for the detached, historical-genealogical mode of analysis.
+
+
+***********
+
+

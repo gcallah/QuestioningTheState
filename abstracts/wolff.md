@@ -20,3 +20,8 @@ commands as binding insofar as doing so helps us better conform to right reason.
 major advantages of the service conception is its ability to respond to Wolff's challenge. While it might be able to
 respond to earlier interpretations of Wolff's challenge, I argue that that it is unable to address Wolff's deeper
 worries about structure of deliberation.
+
+
+***********
+
+

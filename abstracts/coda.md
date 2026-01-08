@@ -26,3 +26,8 @@ myself, the proper aim is in the spirit of Hume, Smith, and Burke, to make gover
 better (which will generally mean making it smaller). I would deal with Hume, Smith, and
 Burke, to mine their writings for their attitude toward the notion of justifying the existence
 of government.
+
+
+***********
+
+

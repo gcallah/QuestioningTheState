@@ -1,4 +1,3 @@
-================
 
 Nataliia Reva earned her PhD in Philosophy from Taras Shevchenko National University of Kyiv (Ukraine) in December 2021.
 Since then, she has been actively establishing her international academic profile as an emerging scholar. Her paper
@@ -9,3 +8,8 @@ to August 2023, she was a Postdoctoral Fellow at the University of Birmingham (U
 scholarship from Fundação Araucária in Brazil and enrolled as a Visiting Researcher at Universidade Tecnológica Federal
 do Paraná in Curitiba. Currently, she is an Honorary Visiting Fellow at Anglia Ruskin University (UK). Nataliia works on
 the Phenomenology of War and is also interested in related concepts, including evil, violence, justice, and peace. 
+
+
+***********
+
+

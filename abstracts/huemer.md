@@ -13,3 +13,8 @@ when examined carefully, the arguments underlying the intuition pumps fall apart
 My aim here is to cast a critical eye on several of Huemer's thought experiments, developing objections rooted in the
 work of Alasdair MacIntyre, David Graeber, and Martha Nussbaum, among others.
 
+
+
+***********
+
+

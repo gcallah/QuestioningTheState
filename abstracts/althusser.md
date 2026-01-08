@@ -15,3 +15,8 @@ and ideological factors, offering a more comprehensive understanding of the stat
 Althusser's thought, this paper will challenge these oversimplified readings and emphasize the continued relevance of
 his framework for analyzing the state in contemporary capitalist societies.
 
+
+
+***********
+
+

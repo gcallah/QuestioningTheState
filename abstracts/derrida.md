@@ -23,3 +23,8 @@ let justice come. Whether a state’s decision is just can never be fully determ
 in the mode of legitimacy- to-come (Future Perfect). The state must justify its actions in light of the future - in
 terms of what will have been just. Finally, I illustrate this deconstructive logic in judicial decision-making and in
 the concept of citizenship.
+
+
+***********
+
+

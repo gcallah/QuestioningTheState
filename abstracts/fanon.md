@@ -23,3 +23,8 @@ outcomes. Arguably, if a state is politically illegitimate on Fanon's view, then
 struggle. As such, by way of conclusion, this section asks whether political struggles against contemporary
 oppressive/illegitimate states should ever resort to violence. 
 
+
+
+***********
+
+

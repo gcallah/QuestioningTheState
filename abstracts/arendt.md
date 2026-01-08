@@ -24,3 +24,8 @@ justice. It concludes by arguing that international institutions, established sp
 injustices, also bear collective responsibility when they fail in their mandate, thus underscoring the urgency of
 rethinking international accountability through an Arendtian lens.
 
+
+
+***********
+
+
