@@ -1,2 +1,3 @@
-# JustifyingTheState
-A book on recent justifications for state authority.
+# Questions the State
+
+A book on recent challenges to state authority.
