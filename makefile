@@ -1,13 +1,19 @@
-export WORD_DIR = ./word_docs
-export PUB_DIR = ./to_publisher
-export BIO_DIR = ./bios
 export ABS_DIR = ./abstracts
-export TMP_DIR = ./tmp
+export ADDR_DIR = ./addresses
 export BIN_DIR = ./bin
+export BIO_DIR = ./bios
+export CHAP_DIR = ./chapters
 export PROP_DIR = ./proposal
+export PUB_DIR = ./to_publisher
 export STRUCT_DIR = ./structure
-export ARCH_NAME = AuthorityAndRebellion
+export TMP_DIR = ./tmp
+export WORD_DIR = ./word_docs
+export AUTHOR_FILE = authors.txt
+export MISSING_PROG = ./missing.py
+export ARCH_NAME = QuesitoningTheState
 export ARCH_FILE = $(PUB_DIR)/$(ARCH_NAME).zip
+
+FORCE:
 
 prod: parts github
 
@@ -20,7 +26,21 @@ github:
 	-git commit -a
 	git push origin main
 
-parts: abstracts bios toc proposal
+parts: abstracts bios toc
+
+whats_missing: missing_abs missing_addrs missing_bios missing_chaps
+
+missing_abs: FORCE
+	$(MISSING_PROG) $(AUTHOR_FILE) $(ABS_DIR)
+	
+missing_addrs: FORCE
+	$(MISSING_PROG) $(AUTHOR_FILE) $(ADDR_DIR)
+	
+missing_bios: FORCE
+	$(MISSING_PROG) $(AUTHOR_FILE) $(BIO_DIR)
+	
+missing_chaps: FORCE
+	$(MISSING_PROG) $(AUTHOR_FILE) $(CHAP_DIR) docx
 
 toc: $(WORD_DIR)/toc.docx
 
