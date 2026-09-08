@@ -15,7 +15,7 @@ National Research University Higher School of Economics
 [Billy Christmas](bios/christmas.md), West Virginia University
 1. [Frantz Fanon on the Illegitimacy of Oppressive States](abstracts/fanon.md),
 [Jordan Liz](bios/liz.md), San Jose State University
-1. [Robert Nozick: Is Only the Minimal State Justified?](abstracts/nozick.md)
+1. [The Unbearable Lightness of Robert Nozick’s State](abstracts/nozick.md)
 [Graeme Garrard](bios/garrard.md), Cardiff University
 1. [Robert Paul Wolff's Autonomy Thesis of Anarchism](abstracts/wolff.md),
 [Steve Coyne](bios/coyne.md), University of Toronto
