@@ -21,7 +21,7 @@ National Research University Higher School of Economics
 [Steve Coyne](bios/coyne.md), University of Toronto
 1. [Michel Foucault: From Sovereignty to Governmentality](abstracts/focault.md),
 [Otto Lehto](bios/lehto.md), New York Univerty
-1. [Jacques Derrida on the Abyss of the State](abstracts/derrida.md),
+1. [Legitimacy is yet to come: Jacques Derrida and the Abyss of the State.](abstracts/derrida.md),
 [Nils Hofmann](bios/hofmann.md), University of Vienna
 1. [Beyond Coercion and Ideology: Rethinking Althusser's State Theory](abstracts/althusser.md),
 [Özhan Öztürk](bios/ozturk.md), Eötvös Loránd University
