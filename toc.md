@@ -19,7 +19,7 @@ National Research University Higher School of Economics
 [Graeme Garrard](bios/garrard.md), Cardiff University
 1. [Wolff on Authority and the Two-Stage Structure of Deliberation](abstracts/wolff.md),
 [Steve Coyne](bios/coyne.md), University of Toronto
-1. [Michel Foucault on Power Relations and Governmentalities](abstracts/focault.md),
+1. [Michel Foucault: From Sovereignty to Governmentality](abstracts/focault.md),
 [Otto Lehto](bios/lehto.md), New York Univerty
 1. [Jacques Derrida on the Abyss of the State](abstracts/derrida.md),
 [Nils Hofmann](bios/hofmann.md), University of Vienna
