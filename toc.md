@@ -27,5 +27,5 @@ National Research University Higher School of Economics
 [Özhan Öztürk](bios/ozturk.md), Eötvös Loránd University
 1. [Noam Chomsky's Anarcho-Syndicalism](abstracts/chomsky.md),
 [Anindita Adhikari](bios/adhikari.md), Independent Scholar
-1. [On Some Libertarian Intuition Pumps in Huemer](abstracts/huemer.md),
+1. [Intuition Pumps and the Privatization of Authority](abstracts/huemer.md),
 [David Pereplyotchik](bios/pereplyotchik.md), Kent State University
