@@ -17,7 +17,7 @@ National Research University Higher School of Economics
 [Jordan Liz](bios/liz.md), San Jose State University
 1. [The Unbearable Lightness of Robert Nozick’s State](abstracts/nozick.md)
 [Graeme Garrard](bios/garrard.md), Cardiff University
-1. [Robert Paul Wolff's Autonomy Thesis of Anarchism](abstracts/wolff.md),
+1. [Wolff on Authority and the Two-Stage Structure of Deliberation](abstracts/wolff.md),
 [Steve Coyne](bios/coyne.md), University of Toronto
 1. [Michel Foucault on Power Relations and Governmentalities](abstracts/focault.md),
 [Otto Lehto](bios/lehto.md), New York Univerty
