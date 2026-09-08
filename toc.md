@@ -6,7 +6,7 @@ Edited by Gene Callahan and Leye Komolafe
 ## Table of Contents
 
 1. [Introduction](intro.md), Gene Callahan and Leye Komolafe
-1. [Dooyeweerd: There is No Secular Justification for the State](abstracts/dooyeweerd.md),
+1. [Herman Dooyeweerd: Divine limits to political sovereignty](abstracts/dooyeweerd.md),
 [Ben Van de Wall](bios/vandewall.md),
 National Research University Higher School of Economics
 1. [Hannah Arendt: When the State is Unjustified](abstracts/arendt.md),
