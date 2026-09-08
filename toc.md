@@ -11,7 +11,7 @@ Edited by Gene Callahan and Leye Komolafe
 National Research University Higher School of Economics
 1. [Hannah Arendt: When the State is Unjustified](abstracts/arendt.md),
 [Nataliia Reva](bios/reva.md), Universidade Tecnológica Federal do Paraná
-1. [Murray Rothbard's Case for Anarchy](abstracts/rothbard.md),
+1. [Murray Rothbard, Against the State](abstracts/rothbard.md),
 [Billy Christmas](bios/christmas.md), West Virginia University
 1. [Frantz Fanon on the Illegitimacy of Oppressive States](abstracts/fanon.md),
 [Jordan Liz](bios/liz.md), San Jose State University
