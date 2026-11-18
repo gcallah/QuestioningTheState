@@ -1,4 +1,4 @@
-Nils Hoffman
+Nils Hofmann
 Department of Philosophy
 University of Vienna
 Universitätsstraße 7
