@@ -1,10 +1,12 @@
 
-Nils Hofmann, MD, BA, is currently a Master's student in Philosophy and Political Science at the University of Vienna
-and a medical doctor trained at the Medical University of Vienna. His MA thesis, which he is about to defend, explores a
-deconstructive theory of the foundation of law following Jacques Derrida. His research focuses on deconstructive legal
-philosophy, the relationship between religion and the state, and the nexus of the political and the ethical—particularly
-in the context of medical ethics and artificial intelligence. His forthcoming essay, "Autonomy Against the Machine:
-Clinical Decision-Making and the Politics of AI," will be published in October.
+Nils Hofmann, MA, MD, is a researcher in philosophy and a medical doctor trained
+at the Medical University of Vienna. He currently works as a resident physician
+at a hospital in Vienna. His master's thesis in philosophy explores a
+deconstructive perspective on the foundation of law in relation to political
+theology, drawing on the work of Jacques Derrida. His research focuses on
+deconstructive legal philosophy, the relationship between religion and the
+state, and the nexus between the political and the ethical, particularly in the
+contexts of medical ethics and artificial intelligence.
 
 
 ***********
