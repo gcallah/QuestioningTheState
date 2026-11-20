@@ -1,7 +1,3 @@
 Nils Hofmann
-Department of Philosophy
-University of Vienna
-Universitätsstraße 7
-1010 Vienna
-Austria
+Arbeitergasse 41/41, 1050 Vienna, Austria
 a11704146@unet.univie.ac.at
